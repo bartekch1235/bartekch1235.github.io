@@ -43,7 +43,6 @@ Ponieważ Aplikacja nie przechowuje danych użytkowników, ryzyko związane z pr
 Polityka Prywatności może być aktualizowana w przypadku zmian funkcjonalności Aplikacji. Nowa wersja będzie publikowana wraz z aktualizacją Aplikacji.
 
 8. Kontakt
-gumif@wp.pl
 W przypadku pytań dotyczących niniejszej Polityki Prywatności można skontaktować się z twórcą aplikacji:
+gumif@wp.pl
 
-E-mail: [wpisz swój adres e-mail]
